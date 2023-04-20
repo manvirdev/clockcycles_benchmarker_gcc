@@ -1,5 +1,5 @@
 ## Clockcycles Benchmarker GCC
-Benchmarking C code by analyzing clock cycles count in execution using GCC complier.
+Benchmarking C code by analyzing clock cycles count in execution using GCC complier. Starter code was taken from a lab in https://www.sfu.ca/outlines.html?2023/spring/cmpt/295/d100
 
 ## Notes
 - Created for Linux GCC version.
